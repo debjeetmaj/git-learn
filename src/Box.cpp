@@ -6,4 +6,7 @@ class Box{
 		this->h=h;
 		this->w=w;
 	}
+	int area(){
+		return this->h * this->w;
+	}
 };
