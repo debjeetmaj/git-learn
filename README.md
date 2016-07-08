@@ -1,2 +1,5 @@
 # git-learn
-new feature to work
+This is to learn git
+----------------------------------------
+working on new feature
+
